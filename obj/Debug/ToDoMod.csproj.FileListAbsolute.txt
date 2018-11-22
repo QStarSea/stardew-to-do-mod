@@ -4,3 +4,9 @@ C:\Users\grego\source\repos\ToDoMod\ToDoMod\obj\Debug\ToDoMod.csprojResolveAssem
 C:\Users\grego\source\repos\ToDoMod\ToDoMod\obj\Debug\ToDoMod.csproj.CoreCompileInputs.cache
 C:\Users\grego\source\repos\ToDoMod\ToDoMod\obj\Debug\ToDoMod.dll
 C:\Users\grego\source\repos\ToDoMod\ToDoMod\obj\Debug\ToDoMod.pdb
+E:\Program Files (x86)\Steam\steamapps\common\Stardew Valley\Mods\.源码\stardew-to-do-mod-master\obj\Debug\ToDoMod.dll
+E:\Program Files (x86)\Steam\steamapps\common\Stardew Valley\Mods\.源码\stardew-to-do-mod-master\obj\Debug\ToDoMod.pdb
+E:\Program Files (x86)\Steam\steamapps\common\Stardew Valley\Mods\.源码\stardew-to-do-mod-master\bin\Debug\ToDoMod.dll
+E:\Program Files (x86)\Steam\steamapps\common\Stardew Valley\Mods\.源码\stardew-to-do-mod-master\bin\Debug\ToDoMod.pdb
+E:\Program Files (x86)\Steam\steamapps\common\Stardew Valley\Mods\.源码\stardew-to-do-mod-master\obj\Debug\ToDoMod.csprojAssemblyReference.cache
+E:\Program Files (x86)\Steam\steamapps\common\Stardew Valley\Mods\.源码\stardew-to-do-mod-master\obj\Debug\ToDoMod.csproj.CoreCompileInputs.cache
